@@ -1,4 +1,4 @@
-# CrieSuaLanding1+Sobrenome 🛍️
+# CrieSuaLanding1+Macedo 🛍️
 
 Este é o primeiro projeto do meu e-commerce desenvolvido com **React.js**, focado na criação da estrutura básica da página inicial.
 
