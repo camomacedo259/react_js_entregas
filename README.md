@@ -15,7 +15,7 @@ Aprender os conceitos iniciais de React, trabalhando com componentes, props e es
 ## 💻 Tecnologias Utilizadas
 
 - React.js
-- JavaScript (ES6+)
-- CSS (ou Bootstrap)
+- JavaScript
+- CSS
 
 ## 📁 Estrutura do Projeto
